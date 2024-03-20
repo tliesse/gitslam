@@ -1,7 +1,7 @@
 <?php 
 
 class Chat {
-
+//va te faire foutre
     // champs, attributs, (propriétés PHP)
     private $nom;
     private $race;
