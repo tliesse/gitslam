@@ -1,6 +1,7 @@
 <?php
 
 //MODIFICATION TEST GITHUB 20/03/24
+//MODIF GITHUB DESKTOP
 
 require_once 'class.Chat.inc.php';
 
