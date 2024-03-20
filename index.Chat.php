@@ -3,6 +3,8 @@
 //MODIFICATION TEST GITHUB 20/03/24
 //MODIF GITHUB DESKTOP
 
+//MODIF POUR DOCU
+
 require_once 'class.Chat.inc.php';
 
 $felix = new Chat('Félix', 'persan', new DateTime('2021-1-1'));
