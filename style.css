@@ -1,0 +1,81 @@
+/* styles.css */
+
+/* MODIFICATION TL GITHUB*/
+
+/* Police par défaut pour tous les sélecteurs */
+body,
+p,
+ul,
+h1,
+h2 {
+    font-family: 'Verdana', 'Lucida Grande', 'Arial', sans-serif;
+    color: #333;
+    /* Gris foncé pour la couleur de texte */
+    font-size: 11pt;
+}
+
+/* Police Raleway pour le body et autres éléments si besoin */
+body,
+p,
+ul,
+h1,
+h2 {
+    font-family: 'Raleway', sans-serif; 
+}
+
+/* Hauteur de ligne pour tous les paragraphes et listes */
+p,
+ul {
+    line-height: 18px;
+}
+
+/* Styles pour les titres de niveau 1 et 2 */
+h1,
+h2 {
+    padding: 5px;
+}
+
+h1 {
+    padding-top: 8px;
+    /* Marge intérieure au-dessus pour h1 */
+    margin-top: 25px;
+    /* Marge extérieure au-dessus pour h1 */
+    background-color: #eee;
+    /* Arrière-plan gris clair pour h1 */
+}
+
+h2 {
+    background-color: #ddd;
+    /* Arrière-plan gris plus clair que h1 pour h2 */
+}
+
+/* Couleur par défaut pour les liens hypertexte */
+a {
+    color: blue;
+}
+
+/* Couleur pour les liens visités */
+a:visited {
+    color: blue;
+}
+
+/* Couleur lorsque la souris passe sur le lien */
+a:hover {
+    color: lightblue;
+}
+
+/* Styles pour les listes */
+ul {
+    list-style-type: square;
+    /* Puce carrée à la place de la puce ronde */
+    margin-top: 15px;
+    /* Marge extérieure au-dessus pour les listes */
+    margin-bottom: 15px;
+    /* Marge extérieure en-dessous pour les listes */
+}
+
+/* Style pour la ligne de séparation */
+hr {
+    margin-top: 35px;
+    /* Marge extérieure au-dessus pour la ligne de séparation */
+}
